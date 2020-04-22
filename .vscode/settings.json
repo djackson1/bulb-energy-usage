@@ -1,0 +1,16 @@
+{
+  "eslint.workingDirectories": ["service", "webapp"],
+  "search.exclude": {
+    "**/www": true,
+    "**/coverage": true
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint"
+  ]
+}
