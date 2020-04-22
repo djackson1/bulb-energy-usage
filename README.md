@@ -148,3 +148,12 @@ If you get a port conflict when running the server use the `PORT` environment va
 set PORT=3001
 yarn start
 ```
+
+
+
+
+## TODO [DELETE THIS AND ANYTHING BELOW]
+
+[] Refactor test suite to be DRY
+[] more types
+[] part b
